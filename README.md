@@ -13,3 +13,7 @@
 4. [Инструментарий автоматизации задач в ОС](/lection/task_automation/main.md)
     - [Выполнения задач в Linux по расписанию](/lection/task_automation/linux.md)
     - [Выполнение задач в Windows по расписанию](/lection/task_automation/windows.md)
+5. [Централизированный мониторинг и управление](/lection/mon_and_con/main.md)
+    - [Zabbix](/lection/mon_and_con/zabbix.md)
+    - [Microsoft Active Directory](/lection/mon_and_con/MSAD.md)
+    - [Работа с сетевыми дисками](/lection/mon_and_con/network_drive.md)
